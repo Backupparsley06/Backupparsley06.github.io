@@ -3,18 +3,18 @@ body {
     font-weight: bold;
   }
   
-  .p-2 {
+  .CellButton {
     background-color: #023020;
     color: white;
     user-select: none;
-  }
+  } 
 
-  .p-2:hover {
-    background-color: darkblue;
+  .CellButton:hover {
+    background-color: #00008b;
     color: white;
     cursor: pointer;
   }
 
-  .p-2:active{
-    background-color:aqua;
+  .CellButton:active{
+    background-color:#00508b;
   }
