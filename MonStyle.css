@@ -1,0 +1,20 @@
+body {
+    background-color: #36454F;
+    font-weight: bold;
+  }
+  
+  .p-2 {
+    background-color: #023020;
+    color: white;
+    user-select: none;
+  }
+
+  .p-2:hover {
+    background-color: darkblue;
+    color: white;
+    cursor: pointer;
+  }
+
+  .p-2:active{
+    background-color:aqua;
+  }
